@@ -1,11 +1,11 @@
-id: e4f926e9ab704cc8871becf80e25d9b2
+id: 08c58211660049888be9c02ae4576652
 annotation_type: index
 revision: '00001'
 annotations:
-  4d301be113084db1b86299ca59ca3633:
+  cd2d9e4a8e0f4c8e96797662529acce0:
     parts: {}
     span:
     - vol: 93
       start: 0
-      end: 17762
+      end: 17615
     work_id: D4133
