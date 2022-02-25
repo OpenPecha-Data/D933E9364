@@ -28,77 +28,77 @@ annotations:
     reference: ''
     span:
       start: 3229
-      end: 4521
+      end: 4522
     note_ref: 687f96b911f94b6f95ab5f76894c6317
   9a65ae12aa8e4240881334c9f9263136:
     imgnum: 941
     reference: ''
     span:
-      start: 4523
-      end: 5774
+      start: 4524
+      end: 5775
     note_ref: 687f96b911f94b6f95ab5f76894c6317
   0a348dad27e640069c852874a0c61002:
     imgnum: 942
     reference: ''
     span:
-      start: 5776
-      end: 6981
+      start: 5777
+      end: 6982
     note_ref: 687f96b911f94b6f95ab5f76894c6317
   dfa48345e4b04ca68daac5ebc19062c7:
     imgnum: 943
     reference: ''
     span:
-      start: 6983
-      end: 8232
+      start: 6984
+      end: 8233
     note_ref: 687f96b911f94b6f95ab5f76894c6317
   39d19d10f9d043c9baafbab7970da372:
     imgnum: 944
     reference: ''
     span:
-      start: 8234
-      end: 9498
+      start: 8235
+      end: 9499
     note_ref: 65d062325a3a4087aeb977728e44d87e
   d8b223c3a7794f04a6c525ddb8537cb2:
     imgnum: 945
     reference: ''
     span:
-      start: 9500
-      end: 10735
+      start: 9501
+      end: 10736
     note_ref: 65d062325a3a4087aeb977728e44d87e
   a7b130a162384442ad958ac2f39c5d7c:
     imgnum: 946
     reference: ''
     span:
-      start: 10737
-      end: 11961
+      start: 10738
+      end: 11962
     note_ref: 65d062325a3a4087aeb977728e44d87e
   65656964fcb242c6a69512b29f506199:
     imgnum: 947
     reference: ''
     span:
-      start: 11963
-      end: 13303
+      start: 11964
+      end: 13304
     note_ref: 65d062325a3a4087aeb977728e44d87e
   a38c23efef314057aa0149439840e8a5:
     imgnum: 948
     reference: ''
     span:
-      start: 13305
-      end: 14616
+      start: 13306
+      end: 14617
     note_ref: 65d062325a3a4087aeb977728e44d87e
   687f96b911f94b6f95ab5f76894c6317:
     imgnum: 949
     reference: ''
     span:
-      start: 14618
-      end: 16303
+      start: 14619
+      end: 16304
     note_ref: 65d062325a3a4087aeb977728e44d87e
   65d062325a3a4087aeb977728e44d87e:
     imgnum: 950
     reference: ''
     span:
-      start: 16305
-      end: 17591
+      start: 16306
+      end: 17592
 local_ids:
   b367ce71dcd84bd3adc75cf7b8e62d95: 200000
   7e17c4876b8a41a3a893a6f827233782: 200001
